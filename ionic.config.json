@@ -1,5 +1,7 @@
 {
   "name": "ShoppingCartDesign",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }

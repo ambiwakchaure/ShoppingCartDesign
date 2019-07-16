@@ -1,1 +1,46 @@
+ 
+.itemRowDesign{
+    height: 100pt; 
+}
+.itemRowDesignOne{
+    height: 80pt; 
+   
+}
+.rowHeight{
+    height: 20pt; 
+   
+}
+.ddimg
+{
+    
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
 
+}
+.productTitle{
+    font-size: 12pt;
+    font-weight: bold;
+}
+.image-container {
+    height: 100%;
+    position:relative;
+    background: url("http://1.22.124.222:81/benosysbill/20160825tokyomiyage_1.jpg");
+  
+    background-size: cover;
+    background-position: center;
+}
+.textBold{
+    font-weight: bold;
+    font-size: 13pt;
+    font-family: Cambria;
+    
+}
+.textBoldNormal{  
+    font-family: Cambria;
+    
+}
+.textBoldPrice{
+    font-weight: bold;
+    font-size: 16pt; 
+    font-family: Cambria;
+}
